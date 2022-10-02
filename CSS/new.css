@@ -1,0 +1,12 @@
+p1, h1 {
+  color:white;
+  size:125%
+}
+a {
+  color:blue
+}
+
+body {
+  background-image: url("/imgs/BasicSiteDesigns/bg1.png");
+  text-align:center;
+}

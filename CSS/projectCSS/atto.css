@@ -1,0 +1,29 @@
+/* Body CSS */
+
+body {
+  background-image: url(/imgs/Assets/OtherProjects/ATTO/ATTO-Background.png);
+}
+
+/* Text CSS */
+
+h1 {
+  color: white;
+  background-color: #1c1c1c;
+  text-align: center;
+  border: 2px solid white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+p {
+  color: white;
+  background-color: #1c1c1c;
+  text-align: center;
+  border: 1px solid white;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
