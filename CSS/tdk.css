@@ -1,0 +1,39 @@
+/* Body CSS */
+
+body {
+  background-image: linear-gradient(to right, gold, purple);
+  text-align: center;
+}
+
+/* Text CSS */
+
+h1 {
+  color: white;
+  background-color: #1B1212;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  font-family: "headingFonts";
+}
+
+p1 {
+  color: white;
+  background-color: #1B1212;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+  font-family: sans-serif;
+}
+
+a {
+  color: white
+}
+
+/* Font CSS */
+
+@font-face {
+  font-family: "headingFonts";
+  src: url("/CSS/Fonts/Bit3.ttf") format("truetype");
+}

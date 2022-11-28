@@ -1,0 +1,54 @@
+/* Body CSS */
+body {
+  background-image: url(/imgs/BasicSiteDesigns/dcBG.png);
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+/* Div CSS */
+
+.nav {
+  color: white;
+  background-color: #1c1c1c;
+  text-align: center;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  font-family: sans-serif;
+}
+
+/* Text CSS */
+
+p1 {
+  color: white;
+  background-color: #1c1c1c;
+  text-align: center;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+  background-color: #1c1c1c;
+  text-align: center;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  font-family:"headingFonts";
+}
+
+a {
+  color: white;
+}
+
+/* Custom Fonts */
+
+@font-face {
+  font-family: "headingFonts";
+  src: url("/CSS/Fonts/AEROSPA_.TTF") format("truetype");
+}
