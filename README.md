@@ -4,5 +4,3 @@ This contains all of my code for my blog site. You can visit it if you want to e
 Site: https://dc-blog.neocities.org/
 
 Discord: https://discord.gg/ExYCKvED3k
-
-Subreddit: https://reddit.com/r/DigitalCheese
