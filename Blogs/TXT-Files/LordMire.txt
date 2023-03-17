@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="LordMire">
+        <meta name="description" content="LordMire's official website">
+        <meta property="og:image" content="puthere.png">
+        <link rel="shortcut icon" href="/imgs/Default.ico">
+        <title>LordMire's Site</title>
+        <style>
+            body {background-color:darkslategray;color:white;}
+            div.container {margin:auto;position:relative;max-width:920px;font-family:sans-serif;font-size-adjust:auto}
+            div.head {background-color:black;margin:auto;text-align:center;border-radius:12px 12px 1px 1px;padding:2px}
+            div.text {background-color:black;padding:4px}
+            
+            a {color:cyan}
+            a:hover {background-color:cyan;color:black!important;}
+        </style>
+    </head>
+    <body>
+        <div class=container>
+            <div class=head>
+                <h1>LordMire's Website</h1>
+            </div>
+            <br>
+            <div class=text>Test
+            </div>
+        </div>
+    </body>
+</html>
