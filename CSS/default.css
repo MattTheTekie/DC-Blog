@@ -1,0 +1,33 @@
+html {cursor: url(/imgs/cur.png),url(/imgs/cur.png),auto;scrollbar-color:#5C4033 black;}
+/* Body CSS */
+body {background-color:black;background-image: url(/imgs/Main-BG.png);}
+.nav {font-size:18px;color:white;background-color:black;text-align:center;border-radius:1px;font-family:sans-serif;border-color:blue;max-width:1280px;margin:auto;float:none;word-wrap:break-word;}
+.footer {color:white;background-color:black;position:relative;margin:auto;float:none;max-width:100%;text-align:center;font-family:sans-serif;font-size:10px;padding:4px;word-wrap:break-word;}
+.main-text {font-size:12px;margin:auto;color:white;font-family:sans-serif;border:1px white solid;background-color:black;max-width:1280px;padding:4px;word-wrap:break-word;}
+.header {color:gold;font-weight:bold;background-color:black;text-align:center;border-radius:32px 32px 1px 1px;font-family:'Brush Script MT',cursive;font-size:42px;max-width:1280px;margin:auto;word-wrap:break-word;}
+/* Text CSS */
+h1 {color:white;background-color:rgb(20,20,20);text-align:center;font-style:italic;}
+a {color:white;}
+a:hover {background-color:green;color:white!important}
+::selection {background-color:darkgreen;color:white!important}
+summary {background-color:rgb(20,20,20)}
+textarea {background-color:black;color:white;width:240px;height:80px}
+/* Custom Text CSS*/
+.neon {color:black;font-weight:bold;text-shadow:-1px 0 0 lime,0 -1px 0 lime,1px 0 0 lime,0 1px 0 lime,0 0 4px lime}
+.long {font-weight:800;letter-spacing:2px;text-transform:uppercase}
+/* Bar CSS */
+::-webkit-scrollbar {width:12px}
+::-webkit-scrollbar-track {background-color:black}
+::-webkit-scrollbar-thumb {background-color:brown}
+::-webkit-scrollbar-thumb:hover {background-color:#5C4033}
+/* Dropdown Buttons */
+.dropbtn {background-color:#5C4033;color:white;padding:6px;font-size:14px;border:none;}
+.dropdown {position:relative;display:inline-block;}
+.dropdown-content {display:none;position:absolute;background-color:black;min-width:160px;box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);z-index:1;}
+.dropdown-content a {color:white;padding:6px 6px;text-decoration:none;display:block;}
+.dropdown-content a:hover {background-color: #222;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: darkgreen;}
+/* Spoiler CSS */
+summary.big-spoiler {background-color:darkgreen!important;color:white!important;width:99%;padding:4px;margin:auto}
+summary.spoiler {background-color:green!important;color:white!important;max-width:99%;width:max-content;padding:4px;}
